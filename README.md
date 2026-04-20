@@ -74,6 +74,12 @@ streamlit run app.py
 
 After that, Streamlit will open the project in your browser.
 
+##Example Usage
+- Load the dataset automatically when the app starts
+- Adjust the number of clusters using the slider
+- View how songs are grouped in the PCA visualization
+- Observe how cluster characteristics change based on parameters
+
 ## Example Workflow
 
 1. Launch the app.
