@@ -1,5 +1,6 @@
 # Clustering Emotion: A Computational Exploration of Music and Mood
 
+## everything copied from a previously corrupted repository
 This project is an end-to-end Python application that explores whether songs can be grouped into meaningful emotional clusters using audio features such as valence, energy, tempo, danceability, acousticness, speechiness, liveness, and instrumentalness.
 
 The system follows the exact spirit of the proposal: it loads a song dataset, normalizes selected features, applies K-means clustering, projects the clusters into two dimensions with PCA, and gives an interpretable summary of each cluster for mood-based analysis.
